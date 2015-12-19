@@ -1,0 +1,28 @@
+name: niceee
+favicon: null
+layout_spectrum: 0.8102543228305876
+typography_spectrum: 0.7273249672725797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.364844779483974
+  lightness: 0.8811093263793737
+  saturation: 0.506264673313126
+  rhythmicContrast: 0.06344792922027409
+purpose: []
